@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace BnetShopifyIntegrator.Models
+namespace ErpToShopify.Models
 {
     // Este es el modelo final que enviaremos a Dapper
     public class HomologacionDto

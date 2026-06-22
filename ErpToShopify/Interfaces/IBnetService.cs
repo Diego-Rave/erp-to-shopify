@@ -1,11 +1,11 @@
-﻿using BnetShopifyIntegrator.Models;
+﻿using ErpToShopify.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BnetShopifyIntegrator.Interfaces
+namespace ErpToShopify.Interfaces
 {
     public interface IBnetService
     {

@@ -1,7 +1,7 @@
 ﻿using System.Text.Json.Serialization;
 using System.Collections.Generic;
 
-namespace BnetShopifyIntegrator.Models 
+namespace ErpToShopify.Models 
 {
     public class BnetApiResponse
     {

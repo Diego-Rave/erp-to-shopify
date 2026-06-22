@@ -3,10 +3,10 @@ using System.Text.Json;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;
-using BnetShopifyIntegrator.Interfaces;
-using BnetShopifyIntegrator.Models;
+using ErpToShopify.Interfaces;
+using ErpToShopify.Models;
 
-namespace BnetShopifyIntegrator.Functions
+namespace ErpToShopify.Functions
 {
     public class WebhookOrderFunction
     {

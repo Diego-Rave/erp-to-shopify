@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using BnetShopifyIntegrator.Interfaces; // Para que reconozca IBnetService
-using BnetShopifyIntegrator.Models;
+using ErpToShopify.Interfaces; // Para que reconozca IBnetService
+using ErpToShopify.Models;
 
-namespace BnetShopifyIntegrator.Services
+namespace ErpToShopify.Services
 {
     public class BnetMockService 
     {

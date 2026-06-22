@@ -1,8 +1,8 @@
-﻿using BnetShopifyIntegrator.Models;
+﻿using ErpToShopify.Models;
 using System.Text;
 
 
-namespace BnetShopifyIntegrator.Interfaces
+namespace ErpToShopify.Interfaces
 {
     public interface IShopifyService
     {

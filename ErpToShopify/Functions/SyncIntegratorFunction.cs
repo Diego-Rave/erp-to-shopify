@@ -1,12 +1,12 @@
-using BnetShopifyIntegrator.Interfaces;
+using ErpToShopify.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;
 using System.Net;
-using BnetShopifyIntegrator.Models;
+using ErpToShopify.Models;
 
-namespace BnetShopifyIntegrator.Functions;
+namespace ErpToShopify.Functions;
 
 public class SyncIntegratorFunction
 {

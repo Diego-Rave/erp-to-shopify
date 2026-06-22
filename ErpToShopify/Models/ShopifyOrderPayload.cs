@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace BnetShopifyIntegrator.Models
+namespace ErpToShopify.Models
 {
     // Representa el pedido general
     public class ShopifyOrderPayload

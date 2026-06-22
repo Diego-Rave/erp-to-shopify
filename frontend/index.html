@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sincronización de Catálogo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <h1>Sincronizar Productos</h1>
+        <p>Selecciona el archivo JSON con el catálogo a sincronizar.</p>
+        
+        <div class="upload-section">
+            <input type="file" id="jsonFileInput" accept=".json" />
+            <button id="syncButton" disabled>Sincronizar</button>
+        </div>
+
+        <div id="statusIndicator" class="status hidden">
+            <span id="statusMessage"></span>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

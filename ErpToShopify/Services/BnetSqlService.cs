@@ -1,10 +1,10 @@
 ﻿using Dapper;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
-using BnetShopifyIntegrator.Interfaces;
-using BnetShopifyIntegrator.Models;
+using ErpToShopify.Interfaces;
+using ErpToShopify.Models;
 
-namespace BnetShopifyIntegrator.Services
+namespace ErpToShopify.Services
 {
     public class BnetSqlService : IBnetService
     {

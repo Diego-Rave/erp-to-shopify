@@ -1,5 +1,5 @@
-using BnetShopifyIntegrator.Interfaces;
-using BnetShopifyIntegrator.Services;
+using ErpToShopify.Interfaces;
+using ErpToShopify.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 

@@ -4,10 +4,10 @@ using System.Net.Http;
 using System.Net.Http.Json;
 using System.Text.Json;
 using System.Threading.Tasks;
-using BnetShopifyIntegrator.Interfaces;
-using BnetShopifyIntegrator.Models;
+using ErpToShopify.Interfaces;
+using ErpToShopify.Models;
 
-namespace BnetShopifyIntegrator.Services
+namespace ErpToShopify.Services
 {
     public class BnetApiService : IBnetService
     {

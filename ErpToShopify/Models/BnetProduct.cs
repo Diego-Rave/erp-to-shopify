@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace BnetShopifyIntegrator.Models
+namespace ErpToShopify.Models
 {
     public class BnetProduct
     {

@@ -2,9 +2,9 @@
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;
-using BnetShopifyIntegrator.Interfaces;
+using ErpToShopify.Interfaces;
 
-namespace BnetShopifyIntegrator.Functions
+namespace ErpToShopify.Functions
 {
     public class BootstrappingFunction
     {

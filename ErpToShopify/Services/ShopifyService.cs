@@ -1,12 +1,12 @@
-﻿using BnetShopifyIntegrator.Interfaces;
-using BnetShopifyIntegrator.Models;
+﻿using ErpToShopify.Interfaces;
+using ErpToShopify.Models;
 using Microsoft.Extensions.Configuration;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Nodes;
 using System.Globalization;
 
-namespace BnetShopifyIntegrator.Services
+namespace ErpToShopify.Services
 {
     public class ShopifyService : IShopifyService
     {
